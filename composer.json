@@ -1,0 +1,18 @@
+{
+    "name": "franciscopavon/api-contactos",
+    "autoload": {
+        "psr-4": {
+            "Franciscopavon\\ApiContactos\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "franciscopavon",
+            "email": "a22pafefr@iesgrancapitan.org"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.5",
+        "firebase/php-jwt": "^6.4"
+    }
+}
